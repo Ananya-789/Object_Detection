@@ -1,0 +1,95 @@
+ body{
+    background-size: cover;
+    background-position: center;
+ }
+
+ .h1{
+    width: 100%;
+    box-shadow: 10px 10px 15px gold;
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 30px;
+
+}
+
+.h2{
+    color: lavender;
+    font-size: 23px;
+}
+
+#para_about{
+    color:cyan;
+    font-size: 18px;
+}
+
+.button{
+    display: inline-block;
+    background-color: black;
+    color: cornsilk;
+    font-size : 20px;
+    padding: 14px 40px;
+    border-radius: 12px;
+    border: 3px solid white;
+    transition-duration: 0.4s;
+    box-shadow: 9px 9px 50px yellow;
+}
+
+ .button:hover{ 
+     width: 250px;
+    background-color: #0063B2FF;
+    color:#9CC3D5FF;
+    border: 6px solid cyan;
+    box-shadow: 9px 9px 50px #FFB853;
+    padding: 14px 40px;
+
+}
+.heading_demo{
+    width: 100%;
+    box-shadow: 10px 10px 15px gold;
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.intro_demo{
+    color: lightcyan;
+    font-size: 18px;
+    box-shadow: 5px 5px 5px rgb(233, 139, 198);
+    width: 80%;
+}
+
+a:link, a:visited {
+    background-color:white;
+    color:blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    width: 40%;
+  }
+  
+  a:hover, a:active {
+    background-color: white;
+  }
+
+  #Copyright_footer1{
+      bottom: 0px;
+      position: fixed;
+      width: 100%;
+      margin : 0px;
+      line-height: 3;
+      background-color: turquoise;
+      color: teal;
+  }
+
+  #Copyright_footer2{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    margin : 0px;
+    line-height: 3;
+    background-color: turquoise;
+    color: teal;
+}
+
